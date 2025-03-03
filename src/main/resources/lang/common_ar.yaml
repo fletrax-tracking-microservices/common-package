@@ -1,0 +1,18 @@
+curd:
+  create:
+    success: "تم إنشاء {0} بنجاح."
+    failure: "فشل إنشاء {0}."
+  read:
+    success: "تم جلب {0} بنجاح."
+    failure: "فشل جلب {0}."
+  update:
+    success: "تم تحديث {0} بنجاح."
+    failure: "فشل تحديث {0}."
+  delete:
+    success: "تم حذف {0} بنجاح."
+    failure: "فشل حذف {0}."
+  link:
+    success: "تم ربط {0} بنجاح."
+    failure: "فشل ربط {0}."
+  not:
+    found: "{0} لم يجد."

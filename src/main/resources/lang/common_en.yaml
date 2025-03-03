@@ -1,0 +1,21 @@
+curd:
+  create:
+    success: "{0} created successfully."
+    failure: "Failed to create {0}."
+  read:
+    success: "{0} fetched successfully."
+    failure: "Failed to fetch {0}."
+  update:
+    success: "{0} updated successfully."
+    failure: "Failed to update {0}."
+  delete:
+    success: "{0} deleted successfully."
+    failure: "Failed to delete {0}."
+  link:
+    success: "{0} linkd successfully."
+    failure: "Failed to link {0}."
+  send:
+    success: "{0} sent successfully."
+    failure: "Failed to send {0}."
+  not:
+    found: "{0} not found."

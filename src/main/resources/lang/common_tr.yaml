@@ -1,0 +1,18 @@
+curd:
+  create:
+    success: "{0} başarıyla oluşturuldu."
+    failure: "{0} oluşturulamadı."
+  read:
+    success: "{0} başarıyla alındı."
+    failure: "{0} alınamadı."
+  update:
+    success: "{0} başarıyla güncellendi."
+    failure: "{0} güncellenemedi."
+  delete:
+    success: "{0} başarıyla silindi."
+    failure: "{0} silinemedi."
+  link:
+    success: "{0} başarıyla bağlandı."
+    failure: "{0} bağlanamadı."
+  not:
+    found: "{0} bulunamadı."
